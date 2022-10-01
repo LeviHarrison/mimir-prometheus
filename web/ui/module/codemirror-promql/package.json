@@ -36,7 +36,7 @@
     "@codemirror/autocomplete": "^6.0.0",
     "@codemirror/language": "^6.0.0",
     "@codemirror/lint": "^6.0.0",
-    "@codemirror/state": "^6.0.0",
+    "@codemirror/state": "^6.1.2",
     "@codemirror/view": "^6.0.0",
     "@lezer/common": "^1.0.0",
     "@lezer/lr": "^1.0.0",
@@ -49,7 +49,7 @@
     "@codemirror/autocomplete": "^6.0.0",
     "@codemirror/language": "^6.0.0",
     "@codemirror/lint": "^6.0.0",
-    "@codemirror/state": "^6.0.0",
+    "@codemirror/state": "^6.1.2",
     "@codemirror/view": "^6.0.0",
     "@lezer/common": "^1.0.0"
   },
