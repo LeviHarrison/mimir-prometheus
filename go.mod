@@ -27,7 +27,7 @@ require (
 	github.com/gophercloud/gophercloud v0.25.0
 	github.com/grafana/regexp v0.0.0-20220304095617-2e8d9baf4ac2
 	github.com/grpc-ecosystem/grpc-gateway v1.16.0
-	github.com/hashicorp/consul/api v1.13.0
+	github.com/hashicorp/consul/api v1.18.0
 	github.com/hashicorp/nomad/api v0.0.0-20220629141207-c2428e1673ec
 	github.com/hetznercloud/hcloud-go v1.35.0
 	github.com/ionos-cloud/sdk-go/v6 v6.1.0
@@ -63,7 +63,7 @@ require (
 	golang.org/x/net v0.0.0-20220624214902-1bab6f366d9e
 	golang.org/x/oauth2 v0.0.0-20220628200809-02e64fa58f26
 	golang.org/x/sync v0.0.0-20220601150217-0de741cfad7f
-	golang.org/x/sys v0.0.0-20220627191245-f75cf1eec38b
+	golang.org/x/sys v0.0.0-20220728004956-3c1f35247d10
 	golang.org/x/time v0.0.0-20220609170525-579cf78fd858
 	golang.org/x/tools v0.1.11
 	google.golang.org/api v0.86.0
@@ -140,7 +140,7 @@ require (
 	github.com/hashicorp/go-retryablehttp v0.7.1 // indirect
 	github.com/hashicorp/go-rootcerts v1.0.2 // indirect
 	github.com/hashicorp/golang-lru v0.5.4 // indirect
-	github.com/hashicorp/serf v0.9.6 // indirect
+	github.com/hashicorp/serf v0.10.1 // indirect
 	github.com/imdario/mergo v0.3.12 // indirect
 	github.com/jmespath/go-jmespath v0.4.0 // indirect
 	github.com/josharian/intern v1.0.0 // indirect
